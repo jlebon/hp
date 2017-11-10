@@ -1606,6 +1606,9 @@ orca
 oscap-anaconda-addon
 ostree
 overpass-fonts
+ovirt-guest-agent-common
+ovirt-guest-agent-gdm-plugin
+ovirt-guest-agent-pam-module
 p11-kit
 pacemaker
 pacemaker-cli

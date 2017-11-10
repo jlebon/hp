@@ -1655,6 +1655,9 @@ oscap-anaconda-addon
 ostree
 ostree-grub2
 overpass-fonts
+ovirt-guest-agent-common
+ovirt-guest-agent-gdm-plugin
+ovirt-guest-agent-pam-module
 p11-kit
 pacemaker
 pacemaker-cli

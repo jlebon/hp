@@ -2141,6 +2141,9 @@ For this reason, it might have a toplevel input package list of its own.
 * `oscap-anaconda-addon`
 * `ostree`
 * `overpass-fonts`
+* `ovirt-guest-agent-common` (`ovirt-guest-agent`)
+* `ovirt-guest-agent-gdm-plugin` (`ovirt-guest-agent`)
+* `ovirt-guest-agent-pam-module` (`ovirt-guest-agent`)
 * `p11-kit`
 * `pacemaker-cli` (`pacemaker`)
 * `pacemaker-cluster-libs` (`pacemaker`)
